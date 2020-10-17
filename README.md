@@ -33,7 +33,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felbarboza&hide=contribs,issues,prs)](https://github.com/felbarboza/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felbarboza&hide=css,html,java,objective-c)](https://github.com/felbarboza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felbarboza&hide=css,html,java,objective-c,vhdl)](https://github.com/felbarboza/github-readme-stats)
 
 [twitter]: https://twitter.com/felbarboza
 [youtube]: https://youtube.com/channel/UCRhUp9GRJSWQM7pH--4hEVw
