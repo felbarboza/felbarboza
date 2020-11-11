@@ -2,7 +2,7 @@
 
 ## Sou um estudante de Engenharia da Computação na UTFPR!
 
-- 🔭 Estou atuamente procurando um estágio!!!
+- 🔭 Estou procurando um estágio!!!
 - 🌱 Aprendendo de tudo um pouco
 - ⚡ Fun fact: O melhor jogador de campo minado do meu bairro
 
