@@ -2,9 +2,8 @@
 
 ## Sou um estudante de Engenharia da Computação na UTFPR!
 
-- 🔭 Estou procurando um estágio!!!
 - 🌱 Aprendendo de tudo um pouco
-- ⚡ Fun fact: O melhor jogador de campo minado do meu bairro
+- ⚡ Fun fact:Segundo melhor jogador de campo minado do Paraná
 
 ### Conecte-se comigo:
 
